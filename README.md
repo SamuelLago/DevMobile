@@ -35,6 +35,10 @@ https://github.com/user-attachments/assets/fd82d84d-e184-4840-8427-d5e434c04865
 
 ---
 
+Link do Aplicativo: https://samuellago.github.io/DevMobile/
+
+---
+
 ## ▶️ Como rodar o projeto localmente
 
 ```bash
