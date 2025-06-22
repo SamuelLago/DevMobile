@@ -29,21 +29,11 @@ Permite cadastrar, visualizar, buscar, ordenar por nota, adicionar comentários,
 
 ---
 
-## Organizacao das pastas
-lib/
-├── Home.dart
-├── add_filme_screen.dart
-├── filme_model.dart
-├── SplashScreen.dart
-└── main.dart
-
----
-
 ## ▶️ Como rodar o projeto localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/meus-filmes
+git clone https://github.com/SamuelLago/meus-filmes
 
 # Acesse a pasta
 cd meus-filmes
