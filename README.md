@@ -29,6 +29,16 @@ Permite cadastrar, visualizar, buscar, ordenar por nota, adicionar comentários,
 
 ---
 
+## Organizacao das pastas
+lib/
+├── Home.dart
+├── add_filme_screen.dart
+├── filme_model.dart
+├── SplashScreen.dart
+└── main.dart
+
+---
+
 ## ▶️ Como rodar o projeto localmente
 
 ```bash
@@ -47,10 +57,4 @@ flutter run
 # Ou para web:
 flutter run -d chrome
 
-## Organizacao das pastas
-lib/
-├── Home.dart
-├── add_filme_screen.dart
-├── filme_model.dart
-├── SplashScreen.dart
-└── main.dart
+
