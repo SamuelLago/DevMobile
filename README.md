@@ -29,6 +29,12 @@ Permite cadastrar, visualizar, buscar, ordenar por nota, adicionar comentários,
 
 ---
 
+## 🎥 Video
+
+https://github.com/user-attachments/assets/fd82d84d-e184-4840-8427-d5e434c04865
+
+---
+
 ## ▶️ Como rodar o projeto localmente
 
 ```bash
